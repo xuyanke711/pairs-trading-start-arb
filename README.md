@@ -34,7 +34,11 @@ Sensitivity analysis across entry thresholds of 1.5, 2.0 and 2.5 produced positi
 - Static hedge ratio
 - Simplified transaction-cost assumptions
 - Cointegration relationships may break across market regimes
-
+## Key Results
+### Test Z-Score
+![BAC-PNC Test Z-Score](bac_pnc_zscore.png)
+### Cumulative Strategy Return
+![BAC-PNC Cumulative Strategy Return](bac_pnc_cumulative_return.png)
 
 
 
